@@ -1,0 +1,12 @@
+# Claude Code local settings
+.claude/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Python build artifacts (used only to generate PDF/diagram)
+__pycache__/
+*.pyc
